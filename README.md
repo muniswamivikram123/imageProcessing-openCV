@@ -6,3 +6,9 @@
 ## 2nd output:
 ![image](https://github.com/user-attachments/assets/03052baa-46ed-4eaa-96e7-4e9bd3f152ff)
 
+# saving the images in opencv
+
+## result:
+![image](https://github.com/user-attachments/assets/df933503-6f7b-4470-b419-9f10723e4267)
+
+
